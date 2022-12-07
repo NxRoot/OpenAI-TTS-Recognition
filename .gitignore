@@ -1,0 +1,6 @@
+.env
+venv
+build
+dist
+api-key.txt
+**spec
