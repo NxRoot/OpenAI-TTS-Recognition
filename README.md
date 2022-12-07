@@ -7,7 +7,7 @@ Talk with OpenAI using Speech Recognition.
 * This software uses OpenAI Model '**text-davinci-003**'.
 * It speaks back the output using your system voices.
 * You must **provide your own api-key** when prompt.
-* Response length is limited to 2000 words.
+* Response length is limited to 2000 tokens.
 * For some reason his name is John.
 
 ## Usage
