@@ -11,7 +11,7 @@ Talk with OpenAI using Speech Recognition.
 * For some reason his name is John.
 
 ## Usage
-* Download last version from [releases](https://github.com/NxRoot/the-law-of-one/releases/tag/Release).
+* Download last version from [releases](https://github.com/NxRoot/OpenAI-TTS-Recognition/releases/tag/Release).
 
 ## How to Build from Source
 
