@@ -32,5 +32,5 @@ pip install -r requirements.txt
 ```
 * Build into Executable
 ```
-pyinstaller --name OpenAI --noconsole --onefile main.py --icon icon.ico
+pyinstaller --name OpenAI --onefile main.py --icon icon.ico
 ```
